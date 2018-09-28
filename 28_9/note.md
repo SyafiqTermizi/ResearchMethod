@@ -39,3 +39,8 @@ there are 2 types of of research
 3. Say precisely what you mean
 4. State the problem in a way that reflects an open mind about its solution
 5. Edit your work
+
+## Example of research problem
+various protocol must be used in a hetergoenous network.
+the complexity of the protocols increases as the number of devices increases.
+hence, it should be a method to reduce the complexity of the protocols
