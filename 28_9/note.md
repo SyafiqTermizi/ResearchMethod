@@ -40,7 +40,7 @@ there are 2 types of of research
 4. State the problem in a way that reflects an open mind about its solution
 5. Edit your work
 
-## Example of research problem
+## Example of research problem (Problem Statement)
 Various protocol must be used in a hetergoenous network.
 The complexity of the protocols increases as the number of devices increases.
 Hence, it should be a method to reduce the complexity of the protocols
