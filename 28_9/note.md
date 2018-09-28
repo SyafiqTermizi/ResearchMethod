@@ -1,7 +1,7 @@
 # Chapter 2: The problem (Heart of the research)
 
 what is the topic ?
-what is the main idea/issue ?i
+what is the main idea/issue ?
 
 ## Finding research projects
 there are 2 types of of research
@@ -41,6 +41,6 @@ there are 2 types of of research
 5. Edit your work
 
 ## Example of research problem
-various protocol must be used in a hetergoenous network.
-the complexity of the protocols increases as the number of devices increases.
-hence, it should be a method to reduce the complexity of the protocols
+Various protocol must be used in a hetergoenous network.
+The complexity of the protocols increases as the number of devices increases.
+Hence, it should be a method to reduce the complexity of the protocols
